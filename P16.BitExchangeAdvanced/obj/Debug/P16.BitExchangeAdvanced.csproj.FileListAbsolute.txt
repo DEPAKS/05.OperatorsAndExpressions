@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P16.BitExchangeAdvanced\bin\Debug\P16.BitExchangeAdvanced.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P16.BitExchangeAdvanced\bin\Debug\P16.BitExchangeAdvanced.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P16.BitExchangeAdvanced\bin\Debug\P16.BitExchangeAdvanced.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P16.BitExchangeAdvanced\obj\Debug\P16.BitExchangeAdvanced.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P16.BitExchangeAdvanced\obj\Debug\P16.BitExchangeAdvanced.pdb

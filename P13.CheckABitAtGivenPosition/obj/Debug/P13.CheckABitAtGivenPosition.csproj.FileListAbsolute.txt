@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P13.CheckABitAtGivenPosition\bin\Debug\P13.CheckABitAtGivenPosition.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P13.CheckABitAtGivenPosition\bin\Debug\P13.CheckABitAtGivenPosition.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P13.CheckABitAtGivenPosition\bin\Debug\P13.CheckABitAtGivenPosition.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P13.CheckABitAtGivenPosition\obj\Debug\P13.CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P13.CheckABitAtGivenPosition\obj\Debug\P13.CheckABitAtGivenPosition.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P13.CheckABitAtGivenPosition\obj\Debug\P13.CheckABitAtGivenPosition.pdb

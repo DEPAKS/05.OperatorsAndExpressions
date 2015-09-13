@@ -1,0 +1,1 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P13.ExtractBitNumberThree\bin\Debug\P13.ExtractBitNumberThree.exe.config

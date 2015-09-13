@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P06.FourDigitsNumber\bin\Debug\P06.FourDigitsNumber.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P06.FourDigitsNumber\bin\Debug\P06.FourDigitsNumber.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P06.FourDigitsNumber\bin\Debug\P06.FourDigitsNumber.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P06.FourDigitsNumber\obj\Debug\P06.FourDigitsNumber.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P06.FourDigitsNumber\obj\Debug\P06.FourDigitsNumber.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P06.FourDigitsNumber\obj\Debug\P06.FourDigitsNumber.pdb

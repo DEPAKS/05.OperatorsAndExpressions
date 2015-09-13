@@ -1,0 +1,1 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P04.RectanglePerimeterAndArea\bin\Debug\P04.RectanglePerimeterAndArea.exe.config

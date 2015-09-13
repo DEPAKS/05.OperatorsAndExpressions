@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P08.PrimeNumberCheck\bin\Debug\P08.PrimeNumberCheck.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P08.PrimeNumberCheck\bin\Debug\P08.PrimeNumberCheck.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P08.PrimeNumberCheck\bin\Debug\P08.PrimeNumberCheck.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P08.PrimeNumberCheck\obj\Debug\P08.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P08.PrimeNumberCheck\obj\Debug\P08.PrimeNumberCheck.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P08.PrimeNumberCheck\obj\Debug\P08.PrimeNumberCheck.pdb

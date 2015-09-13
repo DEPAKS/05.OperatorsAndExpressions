@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P15.BitsExchange\bin\Debug\P15.BitsExchange.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P15.BitsExchange\bin\Debug\P15.BitsExchange.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P15.BitsExchange\bin\Debug\P15.BitsExchange.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P15.BitsExchange\obj\Debug\P15.BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P15.BitsExchange\obj\Debug\P15.BitsExchange.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P15.BitsExchange\obj\Debug\P15.BitsExchange.pdb

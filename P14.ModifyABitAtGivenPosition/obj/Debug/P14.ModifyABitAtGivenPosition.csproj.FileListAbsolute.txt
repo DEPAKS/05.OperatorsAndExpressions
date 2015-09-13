@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P14.ModifyABitAtGivenPosition\bin\Debug\P14.ModifyABitAtGivenPosition.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P14.ModifyABitAtGivenPosition\bin\Debug\P14.ModifyABitAtGivenPosition.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P14.ModifyABitAtGivenPosition\bin\Debug\P14.ModifyABitAtGivenPosition.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P14.ModifyABitAtGivenPosition\obj\Debug\P14.ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P14.ModifyABitAtGivenPosition\obj\Debug\P14.ModifyABitAtGivenPosition.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P14.ModifyABitAtGivenPosition\obj\Debug\P14.ModifyABitAtGivenPosition.pdb

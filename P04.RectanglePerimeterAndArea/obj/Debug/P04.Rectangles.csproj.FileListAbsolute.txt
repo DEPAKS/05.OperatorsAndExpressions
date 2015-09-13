@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P04.RectanglePerimeterAndArea\bin\Debug\P04.RectanglePerimeterAndArea.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P04.RectanglePerimeterAndArea\bin\Debug\P04.RectanglePerimeterAndArea.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P04.RectanglePerimeterAndArea\bin\Debug\P04.RectanglePerimeterAndArea.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P04.RectanglePerimeterAndArea\obj\Debug\P04.Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P04.RectanglePerimeterAndArea\obj\Debug\P04.RectanglePerimeterAndArea.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P04.RectanglePerimeterAndArea\obj\Debug\P04.RectanglePerimeterAndArea.pdb

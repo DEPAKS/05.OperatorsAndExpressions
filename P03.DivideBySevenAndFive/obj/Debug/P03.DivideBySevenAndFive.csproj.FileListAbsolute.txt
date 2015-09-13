@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P03.DivideBySevenAndFive\bin\Debug\P03.DivideBySevenAndFive.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P03.DivideBySevenAndFive\bin\Debug\P03.DivideBySevenAndFive.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P03.DivideBySevenAndFive\bin\Debug\P03.DivideBySevenAndFive.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P03.DivideBySevenAndFive\obj\Debug\P03.DivideBySevenAndFive.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P03.DivideBySevenAndFive\obj\Debug\P03.DivideBySevenAndFive.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P03.DivideBySevenAndFive\obj\Debug\P03.DivideBySevenAndFive.csprojResolveAssemblyReference.cache

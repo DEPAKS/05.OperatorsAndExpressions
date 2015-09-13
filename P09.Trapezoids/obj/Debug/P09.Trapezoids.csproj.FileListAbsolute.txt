@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P09.Trapezoids\bin\Debug\P09.Trapezoids.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P09.Trapezoids\bin\Debug\P09.Trapezoids.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P09.Trapezoids\bin\Debug\P09.Trapezoids.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P09.Trapezoids\obj\Debug\P09.Trapezoids.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P09.Trapezoids\obj\Debug\P09.Trapezoids.pdb

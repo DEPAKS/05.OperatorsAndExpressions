@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P05.IsThirdDigitSeven\bin\Debug\P05.IsThirdDigitSeven.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P05.IsThirdDigitSeven\bin\Debug\P05.IsThirdDigitSeven.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P05.IsThirdDigitSeven\bin\Debug\P05.IsThirdDigitSeven.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P05.IsThirdDigitSeven\obj\Debug\P05.IsThirdDigitSeven.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P05.IsThirdDigitSeven\obj\Debug\P05.IsThirdDigitSeven.pdb

@@ -1,0 +1,12 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\OperatorsAndExpressions\P01.OddOrEvenIntegers\bin\Debug\P01.OddOrEvenIntegers.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\OperatorsAndExpressions\P01.OddOrEvenIntegers\bin\Debug\P01.OddOrEvenIntegers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\OperatorsAndExpressions\P01.OddOrEvenIntegers\bin\Debug\P01.OddOrEvenIntegers.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\OperatorsAndExpressions\P01.OddOrEvenIntegers\obj\Debug\P01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\OperatorsAndExpressions\P01.OddOrEvenIntegers\obj\Debug\P01.OddOrEvenIntegers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\OperatorsAndExpressions\P01.OddOrEvenIntegers\obj\Debug\P01.OddOrEvenIntegers.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P01.OddOrEvenIntegers\bin\Debug\P01.OddOrEvenIntegers.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P01.OddOrEvenIntegers\obj\Debug\P01.OddOrEvenIntegers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P01.OddOrEvenIntegers\obj\Debug\P01.OddOrEvenIntegers.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P01.OddOrEvenIntegers\bin\Debug\P01.OddOrEvenIntegers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P01.OddOrEvenIntegers\bin\Debug\P01.OddOrEvenIntegers.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\05.OperatorsAndExpressions\P01.OddOrEvenIntegers\obj\Debug\P01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
